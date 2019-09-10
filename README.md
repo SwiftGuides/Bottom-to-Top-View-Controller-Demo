@@ -2,6 +2,6 @@
 This will show slideview with animation from bottom to top on button click
 
 
-## Pod Used to Make this Demo 
+## CocoaPod Used to Make this Demo 
 
 https://github.com/gordontucker/FittedSheets
